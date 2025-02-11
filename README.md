@@ -8,10 +8,7 @@ The application provides basic calculation functionalities,
 addition, 
 subtraction, 
 multiplication, 
-division, 
-modulus, 
-power, and 
-square root in addition to providing buttons for numbers, decimal point, ‘Clear’, and backspace.
+division, in addition to providing buttons for numbers, decimal point, ‘Clear’, and backspace.
 
 It uses string, colour, dimension and style resources. 
 
